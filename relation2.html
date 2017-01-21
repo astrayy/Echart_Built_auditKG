@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>金融审计知识图谱</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<!-- basic styles -->
+
+		<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+		
+		<link href="assets/css/bootstrap-treeview.min.css" rel="stylesheet" />
+
+		<!--[if IE 7]>
+		  <link rel="stylesheet" href="assets/css/font-awesome-ie7.min.css" />
+		<![endif]-->
+
+		<!-- page specific plugin styles -->
+
+		<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.custom.min.css" />
+		<link rel="stylesheet" href="assets/css/jquery.gritter.css" />
+		<link rel="stylesheet" href="assets/css/datepicker.css" />
+		<link rel="stylesheet" href="assets/css/ui.jqgrid.css" />
+
+		<!-- fonts -->
+
+		<!-- ace styles -->
+
+		<link rel="stylesheet" href="assets/css/ace.min.css" />
+		<link rel="stylesheet" href="assets/css/ace-rtl.min.css" />
+		<link rel="stylesheet" href="assets/css/ace-skins.min.css" />
+		
+		<!-- fileinput -->	
+        <link href="fileinput/css/fileinput.css" media="all" rel="stylesheet" type="text/css" />   
+        
+         
+        <script src="fileinput/js/jquery-2.0.3.min.js"></script>
+        <script src="fileinput/js/fileinput.js" type="text/javascript"></script>
+
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" href="assets/css/ace-ie.min.css" />
+		<![endif]-->
+
+		<!-- inline styles related to this page -->
+
+		<style>
+			.spinner-preview {
+				width:100px;
+				height:100px;
+				text-align:center;
+				margin-top:60px;
+			}
+			
+			.dropdown-preview {
+				margin:0 5px;
+				display:inline-block;
+			}
+			.dropdown-preview  > .dropdown-menu {
+				display: block;
+				position: static;
+				margin-bottom: 5px;
+			}
+		</style>
+
+		<!-- ace settings handler -->
+
+		<script src="assets/js/ace-extra.min.js"></script>
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+		<!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+
+		<div class="navbar navbar-default" id="navbar">
+			<div class="navbar-container" id="navbar-container">
+				<div class="navbar-header pull-left">
+					<a href="#" class="navbar-brand">
+						<small>
+							<i class="icon-leaf"></i>
+							知识图谱展示
+						</small>
+					</a><!-- /.brand -->
+				</div><!-- /.navbar-header -->
+
+			</div><!-- /.container -->
+		</div>
+		
+
+		<div class="main-container" id="main-container">
+
+				<div class="sidebar" id="sidebar">
+
+			<ul class="nav nav-list" id='sidetab'>	
+			
+				<li >
+				
+					<a data-toggle="tab"  href="#handlefile">
+						<i class="icon-comment"></i>
+						<span class="menu-text">信贷审计</span>
+					</a>
+				</li>
+					
+			</ul><!-- /.nav-list -->
+
+		</div>
+			<div class="main-content">
+				<div id="seqrelation" style="width: 1080px;height:720px;"></div>
+			</div>
+		
+			
+		</div><!-- /.main-container -->
+
+		<!-- basic scripts -->
+
+
+		<!--[if !IE]> -->
+
+		<script type="text/javascript">
+			window.jQuery || document.write("<script src='assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
+		</script>
+
+		<!-- <![endif]-->
+
+		<!--[if IE]>
+<script type="text/javascript">
+ window.jQuery || document.write("<script src='assets/js/jquery-1.10.2.min.js'>"+"<"+"/script>");
+</script>
+<![endif]-->
+
+		<script type="text/javascript">
+			if("ontouchend" in document) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+		</script>
+		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="assets/js/typeahead-bs2.min.js"></script>
+
+		<!-- page specific plugin scripts -->
+
+		<!--[if lte IE 8]>
+		  <script src="assets/js/excanvas.min.js"></script>
+		<![endif]-->
+
+		<script src="assets/js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+		<script src="assets/js/bootbox.min.js"></script>
+		<script src="assets/js/jquery.easy-pie-chart.min.js"></script>
+		<script src="assets/js/jquery.gritter.min.js"></script>
+		
+		<script src="assets/js/fuelux/fuelux.wizard.min.js"></script>
+		<script src="assets/js/jquery.validate.min.js"></script>
+		<script src="assets/js/additional-methods.min.js"></script>
+		<script src="assets/js/jquery.maskedinput.min.js"></script>
+		<script src="assets/js/select2.min.js"></script>
+		
+		<script src="assets/js/date-time/bootstrap-datepicker.min.js"></script>
+		<script src="assets/js/jqGrid/jquery.jqGrid.min.js"></script>
+		<script src="assets/js/jqGrid/i18n/grid.locale-en.js"></script>
+		
+		<script src="assets/js/bootstrap-treeview.min.js"></script>
+		
+		<script src="assets/js/echarts.js"></script>
+		<script src="assets/js/echarts-wordcloud.min.js"></script>
+		
+		<!-- ace scripts -->
+
+		<script src="assets/js/ace-elements.min.js"></script>
+		<script src="assets/js/ace.min.js"></script>
+		
+
+		<!-- inline scripts related to this page -->
+		<script type="text/javascript">
+		
+		var myChart = echarts.init(document.getElementById('seqrelation'));
+		myChart.showLoading();
+$.getJSON('assets\data\auditKG.txt', function (json) {
+    myChart.hideLoading();
+    myChart.setOption(option = {
+        title: {
+            text: 'NPM Dependencies'
+        },
+        animationDurationUpdate: 1500,
+        animationEasingUpdate: 'quinticInOut',
+        series : [
+            {
+                type: 'graph',
+                layout: 'none',
+                // progressiveThreshold: 700,
+                data: json.nodes.map(function (node) {
+                    return {
+                        x: node.x,
+                        y: node.y,
+                        id: node.id,
+                        name: node.label,
+                        symbolSize: node.size,
+                        itemStyle: {
+                            normal: {
+                                color: node.color
+                            }
+                        }
+                    };
+                }),
+                edges: json.edges.map(function (edge) {
+                    return {
+                        source: edge.sourceID,
+                        target: edge.targetID
+                    };
+                }),
+                label: {
+                    emphasis: {
+                        position: 'right',
+                        show: true
+                    }
+                },
+                roam: true,
+                focusNodeAdjacency: true,
+                lineStyle: {
+                    normal: {
+                        width: 0.5,
+                        curveness: 0.3,
+                        opacity: 0.7
+                    }
+                }
+            }
+        ]
+    }, true);
+});
+		</script>
+		
+		
+</body>
+
+
+</html>

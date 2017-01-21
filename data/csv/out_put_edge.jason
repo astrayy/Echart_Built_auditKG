@@ -1,0 +1,8522 @@
+﻿edges: [
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "备注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "创建人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "更新人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "关联关系描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "关联客户号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "关联客户类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "关联客户序号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "关系编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "关系类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "记录状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "截止日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "起始日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "数据来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "成立时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "创建机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "创建人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "打印语言", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "地址模式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "法人代表", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "法人证件号码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "法人证件种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "废止人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "废止日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "废止原因", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "分配标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "更新机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "更新人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "关联客户标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "行业补充分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "核心交易状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "核心客户种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "核心状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "集团客户标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "金融机构类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "进出口权标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "经济性质", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "境内外标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "开行行业代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "开行特色行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "开户机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "开户日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户等级分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户简称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户阶段", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户经理A", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户经理B", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户明细类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户年度优先等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户全称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户首合同日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户信息源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客我工作关系", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客我供求关系", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "老行业代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "老金融机构代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "临时编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "企业规模", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "企业级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "清户时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否金融机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否临时客户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否纳税", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否内部客户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否清户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否上市企业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否中小企业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "是否重大客户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "数据同步状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "所属分行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "所属行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "所属机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "所属区域", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "所在地区", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "所在国家", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "投融资平台类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "业务模块授权情况", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "英文简称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "英文全称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "优先等级认定时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "重大客户认定时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "主客户标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "总资产", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "总资产币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "组织机构代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "组织机构类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "按分行统计外币贷款余额", 
+        "label": "has", 
+        "targetID": "分行贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "按客户统计外币贷款余额", 
+        "label": "extend", 
+        "targetID": "按分行统计外币贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "按客户统计外币贷款余额", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "按客户统计外币贷款余额", 
+        "label": "has", 
+        "targetID": "客户编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "按客户统计外币贷款余额", 
+        "label": "has", 
+        "targetID": "客户贷款余额汇总", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "按客户统计外币贷款余额", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "保证类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "保证人名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "保证人状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "创建人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "担保限额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "分类状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "国金局信贷局管理", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "监管状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "客户状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "修改人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "保证信息", 
+        "label": "has", 
+        "targetID": "修改时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "贷款类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "贷款子类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "核心发放号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "回收类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "回收类型名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "借贷关系", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "是否核销", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "拖欠ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "拖欠状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本金本息拖欠日终表", 
+        "label": "has", 
+        "targetID": "应收日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "备注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本金还款币别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本金还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本金扣款科目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本金扣款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本金扣款帐户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本金账户类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本息回收id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "本息回收编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "处理环节代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "处理状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "创建日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "association", 
+        "targetID": "贷款发放信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "association", 
+        "targetID": "贷款号信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "association", 
+        "targetID": "贷款开立还款计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "association", 
+        "targetID": "贷款项提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "费用", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "付款用途", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "国外银行业务编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "还款日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "还款原因代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "association", 
+        "targetID": "回收计划信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "回收类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "汇款附言", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "计划还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "借款人id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "经办人编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "境外帐户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "利息还款币别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "利息还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "利息扣款科目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "利息扣款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "利息扣款帐号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "利息账户类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "起息日", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "申请类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "申请日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "申请状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "审批结论代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "审批日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "是否贷款结清", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "收益人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "收益人ACNO", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "收益人开户行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "收益人开户行ACNO", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "送审说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "我行业务编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "业务类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "本息回收信息", 
+        "label": "has", 
+        "targetID": "中间行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "次新信用评级明细", 
+        "label": "has", 
+        "targetID": "等级有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "次新信用评级明细", 
+        "label": "has", 
+        "targetID": "对应的实际信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "次新信用评级明细", 
+        "label": "has", 
+        "targetID": "较新认定日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "次新信用评级明细", 
+        "label": "has", 
+        "targetID": "信用等级排序", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "不良贷款率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "不良贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "次级类贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "关注类贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "可疑类贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "客户注册地址", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "客户组织机构代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "授信额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "损失类贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "所属行政区划代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "所属行政区划代码名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户不良情况信息", 
+        "label": "has", 
+        "targetID": "正常类贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "关联违约人名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "关联违约人证件代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "关联违约人证件类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "客户注册地址", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "客户组织机构代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "授信额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "违约类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "违约天数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户关联零售违约情况", 
+        "label": "has", 
+        "targetID": "与本企业关系类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "客户注册地址", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "客户组织机构代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "授信额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "所属行政区划代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "所属行政区划代码名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "限制类行业不良贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "限制类行业贷款不良率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "限制类行业贷款率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户限制类行业贷款情况", 
+        "label": "has", 
+        "targetID": "限制类行业贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "不良贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "不良贷款率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "次级类贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "贷款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "地区", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "地区名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "风险类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "关注类贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "可疑类贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "客户地址", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "客户组织机构代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "授信额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "损失类贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "大额客户预警", 
+        "label": "has", 
+        "targetID": "正常类贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "保费", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "报表统计标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "备注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "币别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "处理环节代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "处理状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "代理行标示", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "贷款发放编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "association", 
+        "targetID": "贷款号信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "association", 
+        "targetID": "贷款开立还款计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "association", 
+        "targetID": "贷款项提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "担保种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "当地费用", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "对外贷款协议签订及修改日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "对外借款协议金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "发放到期日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "extend", 
+        "targetID": "发放计划信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "发放日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "发放账户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "发票号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "发送核心标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "行外合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "核算产品子类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "核心发放号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "extend", 
+        "targetID": "回收计划信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "汇率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "交易来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "借款人id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "经办人编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "境外贷款银行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "开户行全称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "开户行账号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "买方名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "卖方名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "批复日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "其他所需说明情况", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "商务合同号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "商务合同签订日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "申请类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "申请日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "申请状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "审批结论代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "收益人全称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "送审说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "提款类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "提款协议签订日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "提款组别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "网银发放序号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "网银发起人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "文件编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "业务类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "已发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "银团产品类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "银团发放类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "原贷款发放id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "原因代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "账户类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "支付比例", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "中间账户行名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "中间账户行账号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "主担保类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "转存科目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款发放信息", 
+        "label": "has", 
+        "targetID": "转贷费率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "isa", 
+        "targetID": "本金本息拖欠日终表", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "成员行编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "贷款号类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "association", 
+        "targetID": "贷款回收计划调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "贷款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "association", 
+        "targetID": "贷款开立还款计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "extend", 
+        "targetID": "贷款开立信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "association", 
+        "targetID": "贷款项提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "贷款状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "到期日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "发放截止日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "extend", 
+        "targetID": "发放台账表", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "核算产品类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "核算产品子类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "核心交易状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "汇率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "汇率类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "经办人员", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "association", 
+        "targetID": "客户基本信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "期限单位", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "起始日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "是否本行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "是否循环使用", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "isa", 
+        "targetID": "提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "业务数据标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "银团成员id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "银团成员份额id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "extend", 
+        "targetID": "质量分类结果相关信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "资产质量分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款号信息", 
+        "label": "has", 
+        "targetID": "资产质量分类日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款回收计划调整", 
+        "label": "has", 
+        "targetID": "本次提前还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款回收计划调整", 
+        "label": "has", 
+        "targetID": "回收计划调整id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款回收计划调整", 
+        "label": "has", 
+        "targetID": "提前还款币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "extend", 
+        "targetID": "贷款回收计划调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "还款日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "合同还款计划id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "回收计划删除标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "isa", 
+        "targetID": "回收计划信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "已发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立还款计划", 
+        "label": "has", 
+        "targetID": "已还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "extend", 
+        "targetID": "本息回收信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "标准贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "处理状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "association", 
+        "targetID": "贷款发放信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "贷款号", 
+        "size": "3"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "association", 
+        "targetID": "贷款号信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "association", 
+        "targetID": "贷款回收计划调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "贷款开立编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "association", 
+        "targetID": "贷款开立还款计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "贷款人编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "isa", 
+        "targetID": "贷款项提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "贷款用途代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "贷款用途描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "贷款状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "到期日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "等值业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "extend", 
+        "targetID": "发放", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "association", 
+        "targetID": "发放计划信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "罚息的复利", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "复利的复利", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "国际业务代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "还款计划变更方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "合同号", 
+        "size": "3"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "isa", 
+        "targetID": "回收计划信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "汇率，默认为1", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "汇率类型，01牌价汇率，02固定汇率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "基准年天数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "基准月天数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "结息周期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "结息周期单位", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "经办用户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "开立类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "宽限期天数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "利率变动日", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "利率变动周期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "利率条款补充说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "利率调整方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "利息回收日", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "利息资本化结束日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "利息资本化起始日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "批复日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "期限单位", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "起始日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "申请日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "审批结论", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "是否出口信贷", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "是否等值币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "是否利息资本化", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "是否内部借款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "是否外汇业务Y是；N否", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "送审说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "association", 
+        "targetID": "提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "投项", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "外汇贷款性质", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "系统内借款类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "下一利率变动日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "下一利息回收日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "显示银团产品", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "业务环节", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "业务数据标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款开立信息", 
+        "label": "has", 
+        "targetID": "资产证券化开立标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款末笔发放", 
+        "label": "has", 
+        "targetID": "最后发放日", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款项提前还款信息", 
+        "label": "extend", 
+        "targetID": "贷款回收计划调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款项提前还款信息", 
+        "label": "association", 
+        "targetID": "贷款开立还款计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款项提前还款信息", 
+        "label": "has", 
+        "targetID": "赔偿金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款项提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "extend", 
+        "targetID": "贷款末笔发放", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "贷款正常利息的成本利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准的外加利差", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "分行名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "分类时点", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "合同金额元", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "合同生效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "客户编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "项目编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "项目名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "总行认定级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "总行认定级别描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "总行认定类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量不良", 
+        "label": "has", 
+        "targetID": "总行认定类别描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的成本利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准的外加利差", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "isa", 
+        "targetID": "贷款资产质量不良", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "分行名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "分类时点", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "合同金额元", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "合同生效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "客户编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "项目编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "项目名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "总行认定级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "总行认定级别描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "总行认定类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量分类信息", 
+        "label": "has", 
+        "targetID": "总行认定类别描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "分行分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "分行分类类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "分行名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "分类时点", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "分类项目ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "isa", 
+        "targetID": "季末贷款资产质量情况", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "项目编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "项目名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "总行分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量情况", 
+        "label": "has", 
+        "targetID": "总行分类类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的成本利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准的外加利差", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "分行名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "分类时点", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "合同金额元", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "合同生效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "汇总部门分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "客户编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "项目编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "项目名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "extend", 
+        "targetID": "资产质量类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款资产质量信息", 
+        "label": "has", 
+        "targetID": "总行认定结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款子类型", 
+        "label": "has", 
+        "targetID": "管理标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款子类型", 
+        "label": "extend", 
+        "targetID": "未核销贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "贷款子类型", 
+        "label": "extend", 
+        "targetID": "信贷相关信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "保证期间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "变更方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "变更概述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "变更事项", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "担保方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "担保合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "担保合同补充", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "担保合同签订", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "担保合同状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "担保权益比例类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同变更日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同到期日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同签订日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同生效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "association", 
+        "targetID": "合同信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同约定的登记条款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同终止备注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同终止类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "合同终止日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "isa", 
+        "targetID": "借款合同与担保合同关联关系", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "历史担保合同id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "是否变更", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "业务数据标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "约定保险办理期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同", 
+        "label": "has", 
+        "targetID": "约定登记办理期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同编号", 
+        "label": "play_as", 
+        "targetID": "担保合同号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同与担保物关联关系", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同与担保物关联关系", 
+        "label": "has", 
+        "targetID": "担保合同与担保物关联id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同与担保物关联关系", 
+        "label": "has", 
+        "targetID": "担保客户id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同与担保物关联关系", 
+        "label": "has", 
+        "targetID": "担保品类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同与担保物关联关系", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同与担保物关联关系", 
+        "label": "has", 
+        "targetID": "关联类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保合同与担保物关联关系", 
+        "label": "has", 
+        "targetID": "是否有效", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保品", 
+        "label": "extend", 
+        "targetID": "保证信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保品", 
+        "label": "has", 
+        "targetID": "担保品类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保品", 
+        "label": "extend", 
+        "targetID": "抵质押品信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保人信息", 
+        "label": "has", 
+        "targetID": "担保方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保人信息", 
+        "label": "has", 
+        "targetID": "担保合同号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保人信息", 
+        "label": "has", 
+        "targetID": "担保人代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保人信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保相关信息", 
+        "label": "has", 
+        "targetID": "保证比例", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保相关信息", 
+        "label": "has", 
+        "targetID": "保证金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保相关信息", 
+        "label": "has", 
+        "targetID": "担保方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保相关信息", 
+        "label": "has", 
+        "targetID": "担保方式描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保相关信息", 
+        "label": "has", 
+        "targetID": "担保合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保相关信息", 
+        "label": "has", 
+        "targetID": "担保合同状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "担保相关信息", 
+        "label": "extend", 
+        "targetID": "抵质押品充足性计算", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "等级有效日期", 
+        "label": "play_as", 
+        "targetID": "次新有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "等级有效日期", 
+        "label": "play_as", 
+        "targetID": "最新有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "标准抵质押率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "存在状态类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "抵质押品编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "抵质押品的充足性等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "抵质押品名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "抵质押品确认价值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "抵质押物类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "抵质押状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品充足性计算", 
+        "label": "has", 
+        "targetID": "实际抵质押率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "标准抵质押率", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "存在状态类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "抵质押品ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "抵质押品编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "aggregation", 
+        "targetID": "抵质押品充足性计算", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "extend", 
+        "targetID": "抵质押品价值不足", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "抵质押品名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "抵质押品确认价值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "抵质押物类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "抵质押状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息", 
+        "label": "has", 
+        "targetID": "实际抵质押率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息表", 
+        "label": "has", 
+        "targetID": "标准抵质押率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息表", 
+        "label": "has", 
+        "targetID": "创建人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息表", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息表", 
+        "label": "association", 
+        "targetID": "担保品", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息表", 
+        "label": "has", 
+        "targetID": "抵质押率ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息表", 
+        "label": "has", 
+        "targetID": "修改人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品抵质押率信息表", 
+        "label": "has", 
+        "targetID": "修改时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "补充说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "财会处审批", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "创建人ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "存在状态类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "担保人ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "当前保管状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "登记管理要求", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "登记状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押_抵质押品ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品大类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "extend", 
+        "targetID": "抵质押品抵质押率信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "extend", 
+        "targetID": "抵质押品抵质押率信息表", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品二级类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品管理人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "extend", 
+        "targetID": "抵质押品价值不足", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品监管流程状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品确认价值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押品信息来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "extend", 
+        "targetID": "抵质押情况统计信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押物类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "抵质押状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "分类状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "关键信息n", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "关键信息权利证明编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "关键信息权利证明编号类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "国家", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "国金局信贷局管理", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "监管状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "境内外", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "老数据导入维护状态字段", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "区（县）代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "省直辖市自治区代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "是否存在质押账户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "是否登记", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "是否未来权限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "收费权质押文件编码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "数据来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "所属地区省", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "所属地区市", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "所属地区县", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "所属机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "所在国家", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "修改人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "修改时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "预登记", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "帐户币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "质押账户开户行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押品信息", 
+        "label": "has", 
+        "targetID": "质押账户银行账号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押情况统计信息", 
+        "label": "extend", 
+        "targetID": "抵质押品价值不足", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "抵质押情况统计信息", 
+        "label": "has", 
+        "targetID": "实际抵质押率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "对应的实际信用等级", 
+        "label": "play_as", 
+        "targetID": "次新信用等级值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "对应的实际信用等级", 
+        "label": "play_as", 
+        "targetID": "最新信用等级值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "创建日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "发布金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "发放计划id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "发放日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "发放序号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "合同发放计划id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "association", 
+        "targetID": "回收计划信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "计划发放日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放计划信息", 
+        "label": "has", 
+        "targetID": "账户发放计划id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "贷款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "贷款期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "贷款人名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "贷款用途", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "发放号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "发放日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "发放台账ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "发放账号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "复利执行利率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "结息周期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "借款人编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "经办人编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "累计发放比例", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "累计发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "利率变动周期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "利率类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "利率调整方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "未发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "下一利率变动日", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "逾期执行利率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "逾期资金成本", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "正常执行利率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "发放台账表", 
+        "label": "has", 
+        "targetID": "资金成本", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "非最新信用等级的客户", 
+        "label": "aggregation", 
+        "targetID": "次新信用评级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "非最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "等级认定日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "非最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "等级有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "非最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "对应的实际信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "非最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "信贷系统编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "非最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "信用等级排序", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "非最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "信用最终等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "分类时点", 
+        "label": "play_as", 
+        "targetID": "不良最早认定日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "分类时点", 
+        "label": "play_as", 
+        "targetID": "发放不久转不良天数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "分类项目与贷款关联关系", 
+        "label": "extend", 
+        "targetID": "贷款发放后不久转不良", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "分类项目与贷款关联关系", 
+        "label": "extend", 
+        "targetID": "贷款资产质量分类信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "分类项目与贷款关联关系", 
+        "label": "extend", 
+        "targetID": "信贷相关信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "分类项目与贷款关联关系", 
+        "label": "extend", 
+        "targetID": "资产质量分类项目分类信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "报表统计标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "备用国民经济行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "出库时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "创建用户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "更新用户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "规划委审议文号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "国民经济行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "extend", 
+        "targetID": "合同信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "建设地区", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "建设内容", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "交叉项目标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "association", 
+        "targetID": "借款合同与担保合同关联关系", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "境内外", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "association", 
+        "targetID": "客户基本信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "客户经理A", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "客户经理B", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "绿色通道项目描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "期限单位", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "入库时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "删除标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "申请开行金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "审批额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "升级时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "使用方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "是否归属中小企业系统", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "是否规划委审议项目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "是否绿色通道项目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "是否纳入评审计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "是否三优项目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "是否审批通过", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "是否限制类行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "授信组别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "所属地区省", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "所属地区市", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "所属地区县", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "所属机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "所在大区", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "所在国家", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目成熟情况说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目规模", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目是否建议评级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "isa", 
+        "targetID": "项目所在地", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目预计评审时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "项目状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "association", 
+        "targetID": "协议信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "业务品种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "重点行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "重点区域", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "association", 
+        "targetID": "资金支付", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "规划项目基本信息", 
+        "label": "has", 
+        "targetID": "总投资", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "1年度提款计划变更，2跨年度提款计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "A角客户经理编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "B角客户经理编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "报表标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "备注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "变更后资产质量分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "变更前资产质量分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "表外受托客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "表外受托业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "处理状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "创建来源标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "贷款投向行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "贷款用途", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "担保比例", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "担保类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "等值币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "等值币种业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "抵质押率补充手段", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "风险承担方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "还款主要来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "行外合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同报备", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同变更日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同管理机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同截止日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同签订日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同生效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同是否与贷委会审议纪要要求相符", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同是否总行审批", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同谈判id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同特征号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同文本必备条款是否修改", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同性质", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同终止备注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同终止类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同终止日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合同状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "合作方客户id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "extend", 
+        "targetID": "借款合同与担保合同关联关系", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "经办用户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "开行机构编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "联系电话", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "批复日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "批复状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "其他风险缓释措施", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "申请日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "是否次参与行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "是否存在其他风险缓释措施", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "是否外汇业务Y是；N否", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "是否为我行项目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "是否允许提前还款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "系统合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "项目编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "项目建设及贷款执行情况", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "项目名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "extend", 
+        "targetID": "协议信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "信用风险控制技术", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "业务环节", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "业务数据标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "银团产品", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "银团合同签订类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "原合同id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "原合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "原合同执行id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "债权人客户id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "债权性质", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "真实合同状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "主担保方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "资产贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "资产质量分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "资产质量分类项目类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "extend", 
+        "targetID": "资金支付", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "合同信息", 
+        "label": "has", 
+        "targetID": "总行部门审查意见采纳情况说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "核心客户号", 
+        "label": "play_as", 
+        "targetID": "关联客户核心客户号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "本次发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "表内还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "表外还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "贷款发放编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "association", 
+        "targetID": "贷款发放信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "association", 
+        "targetID": "贷款号信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "association", 
+        "targetID": "贷款回收计划调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "association", 
+        "targetID": "贷款开立还款计划", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "association", 
+        "targetID": "贷款项提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "放款日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "合同还款计划id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "回款计划id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "回收计划删除标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "计划回收日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "实际回收日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "未回收金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "已发放金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "回收计划信息", 
+        "label": "has", 
+        "targetID": "已回收金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "汇总部门分类", 
+        "label": "play_as", 
+        "targetID": "总行认定类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "季末贷款资产质量情况", 
+        "label": "isa", 
+        "targetID": "边缘类项目信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "较新认定日期", 
+        "label": "isa", 
+        "targetID": "次新信用评级明细", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "保证比例", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "保证金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "担保方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "担保合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "关联关系状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "关联类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "合同来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "合同与担保合同关联id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "association", 
+        "targetID": "客户基本信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "是否全额保证", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "数据来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "外系统合同币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "外系统合同汇率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "has", 
+        "targetID": "外系统合同金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "association", 
+        "targetID": "协议信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "借款合同与担保合同关联关系", 
+        "label": "association", 
+        "targetID": "资金支付", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "开行行业", 
+        "label": "has", 
+        "targetID": "开行行业编码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "开行行业", 
+        "label": "aggregation", 
+        "targetID": "两高一资的开行行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户编号", 
+        "label": "play_as", 
+        "targetID": "担保人代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户贷款余额汇总", 
+        "label": "play_as", 
+        "targetID": "客户贷款余额占比", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "extend", 
+        "targetID": "客户关联关系明细", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "has", 
+        "targetID": "客户号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系", 
+        "label": "extend", 
+        "targetID": "客户基本信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "关联关系描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "关联客户号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "关联客户类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "关联客户类型说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "关系编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "关系类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "核心客户号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "客户号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "extend", 
+        "targetID": "客户基本信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户关联关系明细", 
+        "label": "has", 
+        "targetID": "客户全称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "extend", 
+        "targetID": "保证信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "isa", 
+        "targetID": "本金本息拖欠日终表", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "extend", 
+        "targetID": "担保合同", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "association", 
+        "targetID": "担保品", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "extend", 
+        "targetID": "合同信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "核心客户号", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "extend", 
+        "targetID": "客户关联关系", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "extend", 
+        "targetID": "客户关联关系明细", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "客户全称", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "extend", 
+        "targetID": "授信基本信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "association", 
+        "targetID": "协议信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户基本信息", 
+        "label": "has", 
+        "targetID": "中文全称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "客户全称", 
+        "label": "play_as", 
+        "targetID": "关联客户全称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "内外币贷款", 
+        "label": "aggregation", 
+        "targetID": "按分行统计外币贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "内外币贷款", 
+        "label": "aggregation", 
+        "targetID": "按客户统计外币贷款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "内外币贷款", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "内外币贷款", 
+        "label": "has", 
+        "targetID": "客户编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "内外币贷款", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "垫款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "垫款日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "垫款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "结清日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "结清状态标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "授信机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "五级分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业垫款信息明细", 
+        "label": "has", 
+        "targetID": "原业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "被担保人名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "被担保人证件代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "被担保人证件类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "担保金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "担保类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "担保形式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "关联主业务明细信息的ID如果主业务标识有值，则需要生成和主业务明细关联的ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业对外担保信息明细", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "不良负债金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "负债日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "全部负债金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业负债变化历史", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "关联关系类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "关联客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "关联客户属性", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "关联客户证件代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "关联客户证件类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "客户属性", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "客户组织机构代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业关联关系库", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "处罚机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "处罚金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "处罚决定", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "处罚日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "处罚执行情况", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "行政处罚决定书文号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业行政处罚信息", 
+        "label": "has", 
+        "targetID": "违法行为", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "案号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "案由", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "结案方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "立案法院名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "立案日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "判决调解结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "判决调解生效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "审判程序", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "诉讼标的", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "诉讼标的金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业民事判决记录", 
+        "label": "has", 
+        "targetID": "诉讼地位", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "欠息类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "欠息余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "授信机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业欠息明细信息", 
+        "label": "has", 
+        "targetID": "余额改变日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "垫款笔数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "垫款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "欠息笔数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "欠息余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "资产处置笔数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "资产处置余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业未结清资产处置、欠息、垫款汇总", 
+        "label": "has", 
+        "targetID": "最近一次处置日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "保证金比例", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "报数机构说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "贷款形式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "担保标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "到期日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "垫款标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "发放日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "关联被担保明细信息的ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "关联信贷业务垫款记录的ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "关联信贷业务历史记录的ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "关联信贷业务展期记录的ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "还款方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "结清（注销）日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "结清状态标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "历史记录标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "授信机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "五级分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "业务金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "业务类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "业务余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "展期标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业信贷业务信息明细", 
+        "label": "has", 
+        "targetID": "种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "处置机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "处置完成日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "机构号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "机构名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "接收日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "结清状态标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "企业ID（系统键）", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "数据批次", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "原始金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "企业资产处置明细信息", 
+        "label": "has", 
+        "targetID": "最近一次处置日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "备案标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "备案环节", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "备用字段1", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "备用字段2", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "变更阶段", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "变更类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "处理状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "创建机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "创建人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "创建日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "单品种免担保授信额度加权总和", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "单品种授信额度加权总和", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "分行路演会议标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "复评类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "经办人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "客户内部信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "客户所处行业", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "客户信用评级日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "免担保授信控制边界Mf", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "评审计划id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "评审类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "删除标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "申请类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "申请状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "审查处信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "审查局信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "审批机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "审批结论", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "审批人", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "审批时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "生效状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "是否修改报告标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "授信额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "授信基本信息id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "授信状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "未使用额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "业务环节", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "原授信id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "综合偿债覆盖率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "综合授信编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "综合授信控制边界M", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "总行路演会议标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "授信基本信息", 
+        "label": "has", 
+        "targetID": "总行审批标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "变更类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "处理环节代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "处理状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "association", 
+        "targetID": "贷款回收计划调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "extend", 
+        "targetID": "贷款项提前还款信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "合同规定应赔偿金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "合同规定应赔偿金额币别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "合同是否结清", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "合同是否约定收取罚金", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "合同是否允许提前还款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "借款人id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "经办人编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "扣款科目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "扣款余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "扣款帐户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "申请类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "申请日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "申请状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "审批结论代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "审批日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "实际赔偿金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "实际是否免除罚金", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "是否分行权限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "是否符合合同规定", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "是否减免赔偿金", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "是否同步回收操作", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "送审说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款币别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款后还款安排", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款顺序", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款性质", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款原因", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "提前还款原因代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "文件编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "新增贷款发放方案", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "业务类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "原合同还款安排", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "提前还款信息", 
+        "label": "has", 
+        "targetID": "账户类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "外币未核销贷款", 
+        "label": "isa", 
+        "targetID": "内外币未核销贷款", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "未核销贷款", 
+        "label": "isa", 
+        "targetID": "外币未核销贷款", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "创建用户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "更新用户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "境内外", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "删除标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "所属地区省", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "所属地区市", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "所属地区县", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "所在大区", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "所在大洲", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "所在国家", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "位置ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "项目所在地", 
+        "label": "has", 
+        "targetID": "重点区域", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "本金", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "表外受托客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "财务年度规定", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "处理状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "创建来源标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "创建时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "多数贷款人份额比例", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "合同经办律师事务所", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "合作方客户id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "价款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "经办人员", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "每次转让支付代理行转让费金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "期限单位", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "其他说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "是否外汇业务", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "是否允许间接分贷", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "是否允许转让承贷额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "是否允许转让余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "送审说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "委托资产管理名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议必填标记", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议签订时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议生效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议失效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议性质", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "协议状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "业务环节", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "业务种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "约束事项", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "执行ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "协议信息", 
+        "label": "has", 
+        "targetID": "总额度", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "3"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款号", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款类型", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款申请日", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款余额元", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的成本利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款正常利息的利率基准的外加利差", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "extend", 
+        "targetID": "贷款资产质量分类信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款子类型", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "贷款子类型说明", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "分行号", 
+        "size": "4"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "分行名称", 
+        "size": "3"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "isa", 
+        "targetID": "股权或参股用途的贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "4"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同截止日期", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同金额", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同金额元", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同期限", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同签订日期", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同生效日期", 
+        "size": "3"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "合同状态描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "isa", 
+        "targetID": "借款人信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "客户编号", 
+        "size": "3"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "客户名称", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "累积已发放金额元", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "是否循环贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "extend", 
+        "targetID": "未核销贷款", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "项目编号", 
+        "size": "4"
+    }, 
+    {
+        "sourceID": "信贷相关信息", 
+        "label": "has", 
+        "targetID": "项目名称", 
+        "size": "4"
+    }, 
+    {
+        "sourceID": "信用等级代码", 
+        "label": "extend", 
+        "targetID": "担保人信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级代码", 
+        "label": "has", 
+        "targetID": "对应的实际信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级代码", 
+        "label": "has", 
+        "targetID": "信用等级排序", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级代码", 
+        "label": "extend", 
+        "targetID": "信用等级下降的客户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级排序", 
+        "label": "play_as", 
+        "targetID": "次新信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级排序", 
+        "label": "play_as", 
+        "targetID": "最新信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "extend", 
+        "targetID": "担保人信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "较新认定日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "较新信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "较新信用等级值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "较新有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "信贷系统编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "最新认定日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "最新信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "最新信用等级值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用等级下降的客户", 
+        "label": "has", 
+        "targetID": "最新有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用评级任务", 
+        "label": "extend", 
+        "targetID": "担保人信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用评级任务", 
+        "label": "has", 
+        "targetID": "等级认定日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用评级任务", 
+        "label": "has", 
+        "targetID": "等级有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用评级任务", 
+        "label": "has", 
+        "targetID": "信贷系统编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用评级任务", 
+        "label": "extend", 
+        "targetID": "信用等级代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用评级任务", 
+        "label": "extend", 
+        "targetID": "信用等级下降的客户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "信用评级任务", 
+        "label": "has", 
+        "targetID": "信用最终等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "本次分类理由", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "标志是否是重点项目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "标志项目是否新增", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "不良贷款化解手段", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "初次计算", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "次年底余额预测", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "次年末预测结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "贷款存在的主要缺陷和风险因素", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "贷款的担保分析", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "贷款类别变动原因宏观调控原因", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "贷款类别变动原因项目自身原因", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "担保人及担保方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "当年底余额预测", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "地区处打分结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "地区处分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "地区处分类时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "地区处退回意见", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "二次调整外汇", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行分类类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行分类类别值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行分类时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行分类调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行建议分类结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行建议原因", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分行上报结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分类时点", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分类项目ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分类状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "分类状态名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "风险防范方案1", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "风险防范方案2", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "风险防范方案3", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "风险信号灯", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "更新时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "还款记录", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "还款能力分析－财务因素", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "还款能力分析非财务因素", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "还款意愿", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "后年底余额预测", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "后年末预测结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "汇总部门分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "建设内容", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "今年末预测结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "考核分数", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "考核分数录入时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "客户处长打分结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "客户经理打分结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "评审报告预期分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "认定时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "上一季度预测本季度的分类结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "是否被关注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "是否贷后协同", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "未来两个季度预测结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "未来三个季度预测结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "未来四个季度预测结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "未来一个季度预测结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "系统规则结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "项目的个性风险因素", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "项目基本情况", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "预案日常状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "预案项目的会签状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "预测提交状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "预测提交状态名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "质量处调整", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "质量处调整时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "重大、特殊事项", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "重组贷款标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "主要风险因素判断", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行分类类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行分类类别值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行建议结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行建议原因", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行质量分类管理处长调整时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行质量分类管理处长调整值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行质量分类管理员调整时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "总行质量分类管理员调整值", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "最新分类时点", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类结果相关信息", 
+        "label": "has", 
+        "targetID": "最新进展", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "has", 
+        "targetID": "贷款号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "has", 
+        "targetID": "分行分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "has", 
+        "targetID": "分行分类类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "has", 
+        "targetID": "分类时点", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "has", 
+        "targetID": "分类项目ID", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "extend", 
+        "targetID": "信贷相关信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "has", 
+        "targetID": "总行分类级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "质量分类相关信息", 
+        "label": "has", 
+        "targetID": "总行分类类别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "中文全称", 
+        "label": "play_as", 
+        "targetID": "客户名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资产质量分类项目分类信息", 
+        "label": "extend", 
+        "targetID": "贷款发放后不久转不良", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资产质量分类项目分类信息", 
+        "label": "extend", 
+        "targetID": "贷款资产质量分类信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资产质量分类项目分类信息", 
+        "label": "has", 
+        "targetID": "分类时点", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资产质量分类项目分类信息", 
+        "label": "has", 
+        "targetID": "汇总部门分类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资产质量分类项目分类信息", 
+        "label": "has", 
+        "targetID": "总行认定结果", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资产质量类别", 
+        "label": "has", 
+        "targetID": "字典名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "报表统计标识", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "备注", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "币种", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "操作单编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "操作单日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "处理状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "创建日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "贷款种类", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "电汇凭证号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "对账成功标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "发送核心标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "发送网银反馈消息状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "付款单位名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "付款单位帐号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "付款方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "付款用途", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "更新日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "合同编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "核心处理状态", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "核心费用", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "核心支付时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "核心资金支付编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "汇出地址", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "汇出行名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "汇率", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "汇入地址", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "汇入行行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "交易来源", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "交易凭证日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "借款人id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "经办机构", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "经办人编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "境外帐号行费用承担", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "境外账户行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "association", 
+        "targetID": "客户基本信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "来源标示1资金支付（按科目）菜单", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "批复日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "凭证打印日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "其他所需说明情况", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "其他支付方式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "企业申请日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "删除标志", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "申请类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "申请日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "申请支付金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "申请状态代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "审批结论代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "是否付款到借款人账户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "是否借款人贷转存账户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "收款人收益人开户行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "收款人收益人名称", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "收款人收益人帐号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "送审说明", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "网银支付序号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "association", 
+        "targetID": "协议信息", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "业务处理环节", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "业务类型代码", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "账户余额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "支付编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "支付金额", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "支付科目", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "支付类型", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "支付时间", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "支付形式", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "中间行", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "中间行行号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "资金支付", 
+        "label": "has", 
+        "targetID": "资金支付id", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "字典名称", 
+        "label": "play_as", 
+        "targetID": "总行认定级别描述", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "总行认定结果", 
+        "label": "play_as", 
+        "targetID": "总行认定级别", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用等级的客户", 
+        "label": "extend", 
+        "targetID": "次新信用评级明细", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "等级有效日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "对应的实际信用等级", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "信贷系统编号", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "信用等级排序", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用等级的客户", 
+        "label": "has", 
+        "targetID": "最新认定日期", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "has", 
+        "targetID": "等级认定日期", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "has", 
+        "targetID": "等级有效日期", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "has", 
+        "targetID": "对应的实际信用等级", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "isa", 
+        "targetID": "非最新信用等级的客户", 
+        "size": "1"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "has", 
+        "targetID": "信贷系统编号", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "has", 
+        "targetID": "信用等级排序", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "has", 
+        "targetID": "信用最终等级", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "has", 
+        "targetID": "最新认定日期", 
+        "size": "2"
+    }, 
+    {
+        "sourceID": "最新信用评级", 
+        "label": "isa", 
+        "targetID": "最新信用等级的客户", 
+        "size": "1"
+    }
+]

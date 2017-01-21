@@ -1,0 +1,344 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>主题序列关系展现</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<!-- basic styles -->
+
+		<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+		
+		<link href="assets/css/bootstrap-treeview.min.css" rel="stylesheet" />
+
+		<!--[if IE 7]>
+		  <link rel="stylesheet" href="assets/css/font-awesome-ie7.min.css" />
+		<![endif]-->
+
+		<!-- page specific plugin styles -->
+
+		<link rel="stylesheet" href="assets/css/jquery-ui-1.10.3.custom.min.css" />
+		<link rel="stylesheet" href="assets/css/jquery.gritter.css" />
+		<link rel="stylesheet" href="assets/css/datepicker.css" />
+		<link rel="stylesheet" href="assets/css/ui.jqgrid.css" />
+
+		<!-- fonts -->
+
+		<!-- ace styles -->
+
+		<link rel="stylesheet" href="assets/css/ace.min.css" />
+		<link rel="stylesheet" href="assets/css/ace-rtl.min.css" />
+		<link rel="stylesheet" href="assets/css/ace-skins.min.css" />
+		
+		<!-- fileinput -->	
+        <link href="fileinput/css/fileinput.css" media="all" rel="stylesheet" type="text/css" />   
+        
+         
+        <script src="fileinput/js/jquery-2.0.3.min.js"></script>
+        <script src="fileinput/js/fileinput.js" type="text/javascript"></script>
+
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" href="assets/css/ace-ie.min.css" />
+		<![endif]-->
+
+		<!-- inline styles related to this page -->
+
+		<style>
+			.spinner-preview {
+				width:100px;
+				height:100px;
+				text-align:center;
+				margin-top:60px;
+			}
+			
+			.dropdown-preview {
+				margin:0 5px;
+				display:inline-block;
+			}
+			.dropdown-preview  > .dropdown-menu {
+				display: block;
+				position: static;
+				margin-bottom: 5px;
+			}
+		</style>
+
+		<!-- ace settings handler -->
+
+		<script src="assets/js/ace-extra.min.js"></script>
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+		<!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+
+		<div class="navbar navbar-default" id="navbar">
+			<div class="navbar-container" id="navbar-container">
+				<div class="navbar-header pull-left">
+					<a href="#" class="navbar-brand">
+						<small>
+							<i class="icon-leaf"></i>
+							序列结果展示
+						</small>
+					</a><!-- /.brand -->
+				</div><!-- /.navbar-header -->
+
+			</div><!-- /.container -->
+		</div>
+		
+
+		<div class="main-container" id="main-container">
+
+				<div class="sidebar" id="sidebar">
+
+			<ul class="nav nav-list" id='sidetab'>	
+			
+				<li >
+				
+					<a data-toggle="tab"  href="#handlefile">
+						<i class="icon-comment"></i>
+						<span class="menu-text">桑基图</span>
+					</a>
+				</li>
+					
+			</ul><!-- /.nav-list -->
+
+		</div>
+			<div class="main-content">
+				<div id="seqrelation" style="width: 1024px;height:720px;"></div>
+			</div>
+		
+			
+		</div><!-- /.main-container -->
+
+		<!-- basic scripts -->
+
+
+		<!--[if !IE]> -->
+
+		<script type="text/javascript">
+			window.jQuery || document.write("<script src='assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
+		</script>
+
+		<!-- <![endif]-->
+
+		<!--[if IE]>
+<script type="text/javascript">
+ window.jQuery || document.write("<script src='assets/js/jquery-1.10.2.min.js'>"+"<"+"/script>");
+</script>
+<![endif]-->
+
+		<script type="text/javascript">
+			if("ontouchend" in document) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+		</script>
+		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="assets/js/typeahead-bs2.min.js"></script>
+
+		<!-- page specific plugin scripts -->
+
+		<!--[if lte IE 8]>
+		  <script src="assets/js/excanvas.min.js"></script>
+		<![endif]-->
+
+		<script src="assets/js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+		<script src="assets/js/bootbox.min.js"></script>
+		<script src="assets/js/jquery.easy-pie-chart.min.js"></script>
+		<script src="assets/js/jquery.gritter.min.js"></script>
+		
+		<script src="assets/js/fuelux/fuelux.wizard.min.js"></script>
+		<script src="assets/js/jquery.validate.min.js"></script>
+		<script src="assets/js/additional-methods.min.js"></script>
+		<script src="assets/js/jquery.maskedinput.min.js"></script>
+		<script src="assets/js/select2.min.js"></script>
+		
+		<script src="assets/js/date-time/bootstrap-datepicker.min.js"></script>
+		<script src="assets/js/jqGrid/jquery.jqGrid.min.js"></script>
+		<script src="assets/js/jqGrid/i18n/grid.locale-en.js"></script>
+		
+		<script src="assets/js/bootstrap-treeview.min.js"></script>
+		
+		<script src="assets/js/echarts.js"></script>
+		<script src="assets/js/echarts-wordcloud.min.js"></script>
+		
+		<!-- ace scripts -->
+
+		<script src="assets/js/ace-elements.min.js"></script>
+		<script src="assets/js/ace.min.js"></script>
+		
+
+		<!-- inline scripts related to this page -->
+		<script type="text/javascript">
+		
+		var seqChart = echarts.init(document.getElementById('seqrelation'));
+
+		var data = {"nodes":[
+		{"name":"Agricultural 'waste'"},
+		{"name":"Bio-conversion"},
+		{"name":"Liquid"},
+		{"name":"Losses"},
+		{"name":"Solid"},
+		{"name":"Gas"},
+		{"name":"Biofuel imports"},
+		{"name":"Biomass imports"},
+		{"name":"Coal imports"},
+		{"name":"Coal"},
+		{"name":"Coal reserves"},
+		{"name":"District heating"},
+		{"name":"Industry"},
+		{"name":"Heating and cooling - commercial"},
+		{"name":"Heating and cooling - homes"},
+		{"name":"Electricity grid"},
+		{"name":"Over generation / exports"},
+		{"name":"H2 conversion"},
+		{"name":"Road transport"},
+		{"name":"Agriculture"},
+		{"name":"Rail transport"},
+		{"name":"Lighting & appliances - commercial"},
+		{"name":"Lighting & appliances - homes"},
+		{"name":"Gas imports"},
+		{"name":"Ngas"},
+		{"name":"Gas reserves"},
+		{"name":"Thermal generation"},
+		{"name":"Geothermal"},
+		{"name":"H2"},
+		{"name":"Hydro"},
+		{"name":"International shipping"},
+		{"name":"Domestic aviation"},
+		{"name":"International aviation"},
+		{"name":"National navigation"},
+		{"name":"Marine algae"},
+		{"name":"Nuclear"},
+		{"name":"Oil imports"},
+		{"name":"Oil"},
+		{"name":"Oil reserves"},
+		{"name":"Other waste"},
+		{"name":"Pumped heat"},
+		{"name":"Solar PV"},
+		{"name":"Solar Thermal"},
+		{"name":"Solar"},
+		{"name":"Tidal"},
+		{"name":"UK land based bioenergy"},
+		{"name":"Wave"},
+		{"name":"Wind"}
+		],
+		"links":[
+		{"source": "Agricultural 'waste'", "target": "Bio-conversion",  "value": 124.729},
+		{"source": "Bio-conversion", "target": "Liquid",  "value": 0.597},
+		{"source": "Bio-conversion",  "target": "Losses",  "value": 26.862},
+		{"source": "Bio-conversion",  "target": "Solid",  "value": 280.322},
+		{"source": "Bio-conversion", "target": "Gas",  "value": 81.144},
+		{"source": "Biofuel imports", "target": "Liquid",  "value": 35},
+		{"source": "Biomass imports", "target": "Solid",  "value": 35},
+		{"source": "Coal imports", "target": "Coal", "value": 11.606},
+		{"source": "Coal reserves","target": "Coal", "value": 63.965},
+		{"source": "Coal", "target": "Solid", "value": 75.571},
+		{"source": "District heating", "target": "Industry", "value": 10.639},
+		{"source": "District heating", "target": "Heating and cooling - commercial", "value": 22.505},
+		{"source": "District heating", "target": "Heating and cooling - homes", "value": 46.184},
+		{"source": "Electricity grid", "target": "Over generation / exports", "value": 104.453},
+		{"source": "Electricity grid", "target": "Heating and cooling - homes", "value": 113.726},
+		{"source": "Electricity grid", "target": "H2 conversion", "value": 27.14},
+		{"source": "Electricity grid", "target": "Industry", "value": 342.165},
+		{"source": "Electricity grid", "target": "Road transport", "value": 37.797},
+		{"source": "Electricity grid", "target": "Agriculture", "value": 4.412},
+		{"source": "Electricity grid", "target": "Heating and cooling - commercial", "value": 40.858},
+		{"source": "Electricity grid", "target": "Losses", "value": 56.691},
+		{"source": "Electricity grid", "target": "Rail transport", "value": 7.863},
+		{"source": "Electricity grid", "target": "Lighting & appliances - commercial", "value": 90.008},
+		{"source": "Electricity grid", "target": "Lighting & appliances - homes", "value": 93.494},
+		{"source": "Gas imports", "target": "Ngas", "value": 40.719},
+		{"source": "Gas reserves", "target": "Ngas", "value": 82.233},
+		{"source": "Gas", "target": "Heating and cooling - commercial", "value": 0.129},
+		{"source": "Gas", "target": "Losses", "value": 1.401},
+		{"source": "Gas", "target": "Thermal generation", "value": 151.891},
+		{"source": "Gas", "target": "Agriculture", "value": 2.096},
+		{"source": "Gas", "target": "Industry", "value": 48.58},
+		{"source": "Geothermal", "target": "Electricity grid", "value": 7.013},
+		{"source": "H2 conversion", "target": "H2", "value": 20.897},
+		{"source": "H2 conversion", "target": "Losses", "value": 6.242},
+		{"source": "H2", "target": "Road transport", "value": 20.897},
+		{"source": "Hydro", "target": "Electricity grid", "value": 6.995},
+		{"source": "Liquid", "target": "Industry", "value": 121.066},
+		{"source": "Liquid", "target": "International shipping", "value": 128.69},
+		{"source": "Liquid", "target": "Road transport", "value": 135.835},
+		{"source": "Liquid", "target": "Domestic aviation", "value": 14.458},
+		{"source": "Liquid", "target": "International aviation", "value": 206.267},
+		{"source": "Liquid", "target": "Agriculture", "value": 3.64},
+		{"source": "Liquid", "target": "National navigation", "value": 33.218},
+		{"source": "Liquid", "target": "Rail transport", "value": 4.413},
+		{"source": "Marine algae", "target": "Bio-conversion", "value": 4.375},
+		{"source": "Ngas", "target": "Gas", "value": 122.952},
+		{"source": "Nuclear", "target": "Thermal generation", "value": 839.978},
+		{"source": "Oil imports", "target": "Oil", "value": 504.287},
+		{"source": "Oil reserves", "target": "Oil", "value": 107.703},
+		{"source": "Oil", "target": "Liquid", "value": 611.99},
+		{"source": "Other waste", "target": "Solid", "value": 56.587},
+		{"source": "Other waste", "target": "Bio-conversion", "value": 77.81},
+		{"source": "Pumped heat", "target": "Heating and cooling - homes", "value": 193.026},
+		{"source": "Pumped heat", "target": "Heating and cooling - commercial", "value": 70.672},
+		{"source": "Solar PV", "target": "Electricity grid", "value": 59.901},
+		{"source": "Solar Thermal", "target": "Heating and cooling - homes", "value": 19.263},
+		{"source": "Solar", "target": "Solar Thermal", "value": 19.263},
+		{"source": "Solar", "target": "Solar PV", "value": 59.901},
+		{"source": "Solid", "target": "Agriculture", "value": 0.882},
+		{"source": "Solid", "target": "Thermal generation", "value": 400.12},
+		{"source": "Solid", "target": "Industry", "value": 46.477},
+		{"source": "Thermal generation", "target": "Electricity grid", "value": 525.531},
+		{"source": "Thermal generation", "target": "Losses", "value": 787.129},
+		{"source": "Thermal generation", "target": "District heating", "value": 79.329},
+		{"source": "Tidal", "target": "Electricity grid", "value": 9.452},
+		{"source": "UK land based bioenergy", "target": "Bio-conversion", "value": 182.01},
+		{"source": "Wave", "target": "Electricity grid", "value": 19.013},
+		{"source": "Wind", "target": "Electricity grid", "value": 289.366}
+		]};
+
+	    seqChart.setOption(getSankeyRelationOption(data.nodes,data.links));
+		
+		function getSankeyRelationOption(nodes,links)
+	   {
+	 	var option;
+
+	 	option = {
+	 	        title: {
+	 	            text: 'Sankey Diagram'
+	 	        },
+	 	        tooltip: {
+	 	            trigger: 'item',
+	 	            triggerOn: 'mousemove'
+	 	        },
+	 	        series: [
+	 	            {
+	 	                type: 'sankey',
+	 	                layout: 'none',
+	 	                data: nodes,
+	 	                links: links,
+	 	                itemStyle: {
+	 	                    normal: {
+	 	                        borderWidth: 1,
+	 	                        borderColor: '#aaa'
+	 	                    }
+	 	                },
+	 	                lineStyle: {
+	 	                    normal: {
+	 	                        curveness: 0.5
+	 	                    }
+	 	                }
+	 	            }
+	 	        ]
+	 	    };
+	 	return option;
+	 };
+	 
+		
+		</script>
+		
+		
+</body>
+
+
+</html>
