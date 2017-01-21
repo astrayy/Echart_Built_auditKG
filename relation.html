@@ -177,11 +177,7 @@
 		var KGChart = echarts.init(document.getElementById('seqrelation'));
 		KGChart.showLoading();
 //	    seqChart.setOption(getOption(data.nodes,data.edges));
-		$.get('assets/data/auditKG.jason').done(function (jason) {
-			alert("JasonData:"+jason.edges);
-			})
-
-		$.get('assets/data/auditKG.jason').done(function (jason) {
+		$.get('https://github.com/astrayy/Echart_Built_auditKG/blob/e4261777eca88ef8bc81230eef608cabacef4ae8/assets/data/auditKG.jason',function (jason) {
 		    KGChart.hideLoading();
 			KGChart.setOption(
 		option = {
